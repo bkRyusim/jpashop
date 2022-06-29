@@ -1,0 +1,8 @@
+1654867003698|0|statement|connection 14|url jdbc:h2:mem:5b764ee9-1cd4-4706-b8ea-545b92dd8843|drop table if exists category CASCADE |drop table if exists category CASCADE 
+1654867003699|0|statement|connection 14|url jdbc:h2:mem:5b764ee9-1cd4-4706-b8ea-545b92dd8843|drop table if exists category_item CASCADE |drop table if exists category_item CASCADE 
+1654867003699|0|statement|connection 14|url jdbc:h2:mem:5b764ee9-1cd4-4706-b8ea-545b92dd8843|drop table if exists delivery CASCADE |drop table if exists delivery CASCADE 
+1654867003700|0|statement|connection 14|url jdbc:h2:mem:5b764ee9-1cd4-4706-b8ea-545b92dd8843|drop table if exists item CASCADE |drop table if exists item CASCADE 
+1654867003700|0|statement|connection 14|url jdbc:h2:mem:5b764ee9-1cd4-4706-b8ea-545b92dd8843|drop table if exists member CASCADE |drop table if exists member CASCADE 
+1654867003701|0|statement|connection 14|url jdbc:h2:mem:5b764ee9-1cd4-4706-b8ea-545b92dd8843|drop table if exists order_item CASCADE |drop table if exists order_item CASCADE 
+1654867003701|0|statement|connection 14|url jdbc:h2:mem:5b764ee9-1cd4-4706-b8ea-545b92dd8843|drop table if exists orders CASCADE |drop table if exists orders CASCADE 
+1654867003701|0|statement|connection 14|url jdbc:h2:mem:5b764ee9-1cd4-4706-b8ea-545b92dd8843|drop sequence if exists hibernate_sequence|drop sequence if exists hibernate_sequence
